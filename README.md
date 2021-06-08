@@ -1,7 +1,7 @@
 # Carbon-Black-Automation
 Automated Registry Key Value Retrieval for both HKCU/HKLM keys
 
-cb_th_api.py - contains singular API Call functions
+cb_th_api.py - contains singular API Call functions\n
 cb_live_session.py - automation logic leveraging on API Call functions defined in cb_th_api.py
 cb_live_resp.py - front-end class for calling the business logics
 
